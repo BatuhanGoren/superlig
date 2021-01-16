@@ -1,0 +1,17 @@
+C:\Users\batuh\source\repos\Süperlig\Süperlig\bin\Debug\Süperlig.exe.config
+C:\Users\batuh\source\repos\Süperlig\Süperlig\bin\Debug\Süperlig.exe
+C:\Users\batuh\source\repos\Süperlig\Süperlig\bin\Debug\Süperlig.pdb
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.csprojAssemblyReference.cache
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.Form1.resources
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.Properties.Resources.resources
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.exe
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.pdb
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.Form2.resources
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.Form3.resources
+C:\Users\batuh\source\repos\Süperlig\Süperlig\bin\Debug\Interop.WMPLib.dll
+C:\Users\batuh\source\repos\Süperlig\Süperlig\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Interop.WMPLib.dll
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\batuh\source\repos\Süperlig\Süperlig\obj\Debug\Süperlig.csproj.ResolveComReference.cache
